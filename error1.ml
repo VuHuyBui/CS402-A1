@@ -1,3 +1,5 @@
+(*James Bui*)
+
 (* e : float *)
 let e : float = 2.71828182845905
 (*

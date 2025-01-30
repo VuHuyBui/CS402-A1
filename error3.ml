@@ -1,3 +1,4 @@
+(*James Bui*)
 (*
 * dbl : float -> float
 * REQUIRES: true

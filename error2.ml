@@ -1,3 +1,4 @@
+(*James Bui*)
 (*
 * fact : int -> int
 * REQUIRES: n >= 0
